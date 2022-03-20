@@ -1,5 +1,5 @@
 # AsistenciasEmpleados
-
+# Para correr el programa en tu equipo, usar npm install, que lo que hara es instalar los node_modules
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
