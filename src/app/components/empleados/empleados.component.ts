@@ -32,6 +32,10 @@ export class EmpleadosComponent implements OnInit {
     //agregar el objeto a la lista 
     this.listaEmpleados.push(REGISTRO)
     console.log(this.listaEmpleados);
+    this.nombre=''
+    this.apellidos=''
+    this.hora=''
+    this.area=''
   }
   eliminarEmpleado(indx:number){
     this.listaEmpleados.splice(indx,1)
